@@ -1,3 +1,3 @@
 # linux-notes
 
-[Centos](./centos/REMDME.md)
+[Centos](./centos/README.md)
